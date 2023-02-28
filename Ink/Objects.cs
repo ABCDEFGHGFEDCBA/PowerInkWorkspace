@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-//By PuTianYiZhongCaiShengYuan(LaoHoZi)!!!
+//By Pu Tian Yi Zhong Cai Sheng Yuan (Lao Ho Zi) ! ! !
 
 namespace Ink
 {
